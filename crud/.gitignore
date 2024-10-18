@@ -17,3 +17,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+crud/mysql/
+crud/mysql/mysql.sock
+mysql/
